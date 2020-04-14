@@ -1,0 +1,42 @@
+.a{  border-radius: .5em;}
+textarea{
+            resize:none;
+            }
+        * {
+            font-family: "微软雅黑";
+        }
+    
+        .ui.menu .item img.logo {
+            margin-right: 1.5em;
+        }
+    
+        .main.container {
+            margin-top: 6em;
+        }
+    
+        .wireframe {
+            margin-top: 2em;
+        }
+    
+        .ui.footer.segment {
+            margin: 3em 0 0;
+            padding: 3em 0;
+        }
+    
+        .ui.dropdown .menu .header {
+            font-size: 1em;
+        }
+    
+        #videoImg {
+            border-radius: 5px;
+            width: 98%;
+            position: relative;
+            left: 1%;
+        }
+    
+        #videoImg:hover{
+            border-radius: 5px;
+            width: 100%;
+            position: relative;
+            left: 0%;
+        }
